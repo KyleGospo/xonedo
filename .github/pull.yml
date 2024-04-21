@@ -1,12 +1,12 @@
 version: "1"
 rules:
   - base: master
-    upstream: medusalix:master
+    upstream: BoukeHaarsma23:master
     mergeMethod: merge
     mergeUnstable: false
     assignees:
-      - boukehaarsma23
+      - KyleGospo
     reviewers:
-      - boukehaarsma23
+      - KyleGospo
     conflictReviewers:
-      - boukehaarsma23
+      - KyleGospo
